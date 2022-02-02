@@ -1,38 +1,34 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://michellehylee.com",
+    "title": "Michelle Hwayeon Lee Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "description": "Portfolio website about everything that Michelle has worked on",
+    "author": "Michelle Lee",
+    "avatar": "../content/images/michelle_emoji.jpeg",
+    "bio": "S. Korean citizen with Singapore PR. Love good food and beer.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "medium": "https://medium.com/@michelle.hwayeon",
+      "linkedin": "https://www.linkedin.com/in/hwayeonlee/",
+      "mail": "mailto:michellehwayeon@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Michelle Lee" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Interpreter", "url": "/interpreter" },
+        { "label": "Product Manager", "url": "/#product_manager" },
+        { "label": "한국어", "url": "https://michellehwayeonlee.notion.site/PM-4f0da9dd080f4d20af56bfaa7d6889aa" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/michelle_lee_resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
       ]
     },
     "featureToggles": {

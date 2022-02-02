@@ -1,18 +1,17 @@
 {
-  "intro": "Hej",
+  "intro": "Hi",
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/waving_hand_png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
-  "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+  "title": "I'm Michelle,",
+  "subtitle": { 
+    "highlight": "Product Manger ",
+    "suffix": "based in Seoul."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I like to build simple solutions for complicated problems.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Mail"],
+    "showIcons": true
   }
 }

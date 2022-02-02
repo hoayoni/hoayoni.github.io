@@ -2,46 +2,59 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "📊 DASHBOARD",
+      "title": "Pivot Table on Dashboard",
+      "description": "No more heavy .xls and outdated pivot table on Excel. We introduced a completely customizable table settings so that users can re-create rows and columns for their various reporting needs. No manual sync required once the data source is connected.",
+      "tags": ["2 Months Runway", "Pivot Table"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/pivottable.jpeg",
         "alt": "Quick Setup"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.youtube.com/watch?v=kruTEhbyX54"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "💬 CHAT",
+      "title": "Chat and Comments",
+      "description": "This project aimed to provide a collaborative spirit to the numbers-driven dashboard by introducing a 'Comments' section. Users read numbers in order to communicate with others and take actions, so what if this can be done on our product page, instead of on emails/Slack?",
+      "tags": ["1 Month Runway", "Chat API - GetStream"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/comments.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://adrielmarketing.notion.site/Comments-on-Dashboard-91c2216ec94d4321ad1d60f316b3c6a7"
         }
       ]
-    }
+    },
+    {
+      "visible": true,
+      "category": "💳 PAYMENT",
+      "title": "Multi-PG Payment System",
+      "description": "My team and I built a comphrehensive payment system that charges a fixed service fee based on ad spent, or a recurring subscription model, depending on the purchased product. Credit score per user is introduced to minimize risks, and so is cash credits to maximise cash flow. Photo by Stripe.",
+      "tags": ["Stripe", "Nicepay"],
+      "image": {
+        "src": "../../images/stripe.jpeg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://adrielmarketing.notion.site/Instant-Plan-Upgrade-63f469e42a6d4c3a90e70fbf943caeb9"
+        }
+      ]
+    }    
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "...and my side job",
+    "url": "/interpreter"
   }
 }
